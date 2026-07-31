@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ca.foxlist.app",
+      "sha256_cert_fingerprints": [
+        "38:42:08:FF:2D:87:B4:DE:34:64:2E:E8:60:6A:9E:BB:24:58:6C:78:E6:4D:B6:B0:20:70:02:A0:8C:7F:E3:81"
+      ]
+    }
+  }
+]
